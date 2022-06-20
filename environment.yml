@@ -1,0 +1,13 @@
+name: sr5gui
+channels:
+  - conda-forge
+  - defaults
+  - anaconda 
+dependencies:
+  - pandas
+  - python > 3.10
+  - pip
+
+  - pip:
+    - PyQt6
+    
