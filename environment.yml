@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - python > 3.10
   - pip
-
+  - setuptools
   - pip:
     - PyQt6
     
